@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="highlight_color">#66CCCCCC</color>
+    <string name="app_name">红包</string>
+    <string name="disable_accessibility">关闭抢红包</string>
+    <string name="enable_accessibility">启用辅助功能</string>
+    <string name="enable_notification">启用通知开关</string>
+    <string name="running_state">抢红包功能已打开，你现在可以去做其他事情啦，我会给你自动抢的~</string>
+    <string name="user_tips">使用说明</string>
+    <string name="user_tips_details">(声明:本App绝不收集你的个人信息，如有担心请卸载)</string>
+    <style name="FullHeightDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

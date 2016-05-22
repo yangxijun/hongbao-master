@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\Workspace\\hongbao-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
+        "source": "E:\\Android\\Workspace\\hongbao-master\\app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "E:\\Android\\Workspace\\hongbao-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_normal.xml",
+        "source": "E:\\Android\\Workspace\\hongbao-master\\app\\src\\main\\res\\drawable\\btn_red_normal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Workspace\\hongbao-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_focus.xml",
+        "source": "E:\\Android\\Workspace\\hongbao-master\\app\\src\\main\\res\\drawable\\btn_red_focus.xml"
+    }
+]
